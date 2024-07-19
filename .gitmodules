@@ -1,0 +1,3 @@
+[submodule "add-nbo"]
+	path = add-nbo
+	url = https://github.com/buaii/add-nbo.git
